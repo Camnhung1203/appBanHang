@@ -1,0 +1,28 @@
+//hidaacademy.com/data.json
+
+[
+  {
+     "tit":"Phim Hành Động",
+     "tit-khongdau":"phimhanhdong",
+     "listVideos":[
+            {
+            "idvideo":"0wWdFS-e49A",
+            "ten":"Thuỷ Thần",
+            "ten_khongdau":"thuythan",
+            "linkHinh":"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj5k_u2v5TRAhVGJJQKHeE4DZAQjRwIBw&url=http%3A%2F%2Fsieuimba.com%2Ftong-hop-nhung-bo-phim-hoat-hinh-nhat-ban-hay%2F&psig=AFQjCNFkswkjsSERHrjC6fhOwTDx95rm-Q&ust=1482932168801481"
+            },
+            {
+            "idvideo":"0wWdFS-e49A",
+            "ten":"Thuỷ Thần",
+            "ten_khongdau":"thuythan",
+            "linkHinh":"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj5k_u2v5TRAhVGJJQKHeE4DZAQjRwIBw&url=http%3A%2F%2Fsieuimba.com%2Ftong-hop-nhung-bo-phim-hoat-hinh-nhat-ban-hay%2F&psig=AFQjCNFkswkjsSERHrjC6fhOwTDx95rm-Q&ust=1482932168801481"
+            },
+            {
+            "idvideo":"Gw9PWocKMY4",
+            "ten":"Thuỷ Thần",
+            "ten_khongdau":"thuythan",
+            "linkHinh":"https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj5k_u2v5TRAhVGJJQKHeE4DZAQjRwIBw&url=http%3A%2F%2Fsieuimba.com%2Ftong-hop-nhung-bo-phim-hoat-hinh-nhat-ban-hay%2F&psig=AFQjCNFkswkjsSERHrjC6fhOwTDx95rm-Q&ust=1482932168801481"
+            }
+            ]
+},{},{},{},{}
+]
