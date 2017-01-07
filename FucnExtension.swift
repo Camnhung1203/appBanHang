@@ -1,2 +1,0 @@
-//  FucnExtension.swift
-//  AppQuanAo
